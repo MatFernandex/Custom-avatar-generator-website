@@ -1,1 +1,1 @@
-# Custom-image-generator-website
+# Custom-avatar-generator-website
